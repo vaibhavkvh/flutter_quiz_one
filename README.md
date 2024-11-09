@@ -6,6 +6,12 @@ A Flutter project built as a learning exercise for cross-platform development.
 
 **Quiz One** is a simple quiz application with three primary screens: the Welcome Screen, Quiz Screen, and Score Screen. The app allows users to select a language, framework, or platform to start a quiz, complete with a timer and multiple-choice questions.
 
+## Demo
+
+You can try out the app by downloading the APK here:
+
+[Download Quiz One APK](https://github.com/vaibhavkvh/flutter_quiz_one/releases/download/v1.0.0/app-release.apk)
+
 ## Screens
 
 1. **Welcome Screen**
