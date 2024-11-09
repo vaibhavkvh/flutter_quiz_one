@@ -27,6 +27,12 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
+                Text(
+                  textAlign: TextAlign.center,
+                  'Welcome! \nChoose any one to start quiz',
+                  style: TextStyle(color: Colors.white, fontSize: 24),
+                ),
+                SizedBox(height: 30,),
                 'Android'.toOutlineButton(() {
                   gotoNext('assets/android_questions.json');
                 }),
