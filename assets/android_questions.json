@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Which component is responsible for managing the user interface in Android?",
+    "options": [
+      "Activity",
+      "Service",
+      "Broadcast Receiver",
+      "Content Provider"
+    ],
+    "answer": "Activity"
+  },
+  {
+    "question": "What is the purpose of the Android Manifest file?",
+    "options": [
+      "To define the application's components and permissions",
+      "To store the application's data",
+      "To handle user interactions",
+      "To execute background tasks"
+    ],
+    "answer": "To define the application's components and permissions"
+  },
+  {
+    "question": "Which layout is used to arrange views in a vertical or horizontal line?",
+    "options": [
+      "LinearLayout",
+      "RelativeLayout",
+      "FrameLayout",
+      "ConstraintLayout"
+    ],
+    "answer": "LinearLayout"
+  },
+  {
+    "question": "What is the lifecycle method called when an Activity is first created?",
+    "options": [
+      "onCreate()",
+      "onStart()",
+      "onResume()",
+      "onPause()"
+    ],
+    "answer": "onCreate()"
+  },
+  {
+    "question": "Which class is used to display a list of items in Android?",
+    "options": [
+      "ListView",
+      "RecyclerView",
+      "GridView",
+      "ScrollView"
+    ],
+    "answer": "RecyclerView"
+  },
+  {
+    "question": "What is the purpose of an Intent in Android?",
+    "options": [
+      "To start an Activity or Service",
+      "To store data",
+      "To handle user input",
+      "To display notifications"
+    ],
+    "answer": "To start an Activity or Service"
+  },
+  {
+    "question": "Which storage option is used to store data that is private to the application?",
+    "options": [
+      "Shared Preferences",
+      "Internal Storage",
+      "External Storage",
+      "SQLite Database"
+    ],
+    "answer": "Internal Storage"
+  },
+  {
+    "question": "What is the purpose of a Content Provider in Android?",
+    "options": [
+      "To share data between applications",
+      "To display notifications",
+      "To handle user interactions",
+      "To execute background tasks"
+    ],
+    "answer": "To share data between applications"
+  },
+  {
+    "question": "Which class is used to handle background tasks in Android?",
+    "options": [
+      "Service",
+      "Activity",
+      "Broadcast Receiver",
+      "Content Provider"
+    ],
+    "answer": "Service"
+  },
+  {
+    "question": "What is the purpose of a Broadcast Receiver in Android?",
+    "options": [
+      "To respond to system-wide events",
+      "To store data",
+      "To handle user input",
+      "To display notifications"
+    ],
+    "answer": "To respond to system-wide events"
+  },
+  {
+    "question": "Which permission is required to access the internet in Android?",
+    "options": [
+      "android.permission.INTERNET",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.WRITE_EXTERNAL_STORAGE",
+      "android.permission.READ_CONTACTS"
+    ],
+    "answer": "android.permission.INTERNET"
+  },
+  {
+    "question": "What is the purpose of the Gradle build system in Android?",
+    "options": [
+      "To automate the build process",
+      "To design the user interface",
+      "To debug the application",
+      "To test the application"
+    ],
+    "answer": "To automate the build process"
+  },
+  {
+    "question": "Which layout is used to position views relative to each other?",
+    "options": [
+      "RelativeLayout",
+      "LinearLayout",
+      "FrameLayout",
+      "ConstraintLayout"
+    ],
+    "answer": "RelativeLayout"
+  },
+  {
+    "question": "What is the lifecycle method called when an Activity is no longer visible?",
+    "options": [
+      "onStop()",
+      "onPause()",
+      "onDestroy()",
+      "onRestart()"
+    ],
+    "answer": "onStop()"
+  },
+  {
+    "question": "Which class is used to display a grid of items in Android?",
+    "options": [
+      "GridView",
+      "ListView",
+      "RecyclerView",
+      "ScrollView"
+    ],
+    "answer": "GridView"
+  },
+  {
+    "question": "What is the purpose of an AsyncTask in Android?",
+    "options": [
+      "To perform background operations and update the UI",
+      "To store data",
+      "To handle user input",
+      "To display notifications"
+    ],
+    "answer": "To perform background operations and update the UI"
+  },
+  {
+    "question": "Which storage option is used to store key-value pairs?",
+    "options": [
+      "Shared Preferences",
+      "Internal Storage",
+      "External Storage",
+      "SQLite Database"
+    ],
+    "answer": "Shared Preferences"
+  },
+  {
+    "question": "What is the purpose of a Fragment in Android?",
+    "options": [
+      "To create reusable UI components",
+      "To display notifications",
+      "To handle user interactions",
+      "To execute background tasks"
+    ],
+    "answer": "To create reusable UI components"
+  },
+  {
+    "question": "Which class is used to create and manage threads in Android?",
+    "options": [
+      "Thread",
+      "Handler",
+      "AsyncTask",
+      "Looper"
+    ],
+    "answer": "Thread"
+  },
+  {
+    "question": "What is the purpose of a Handler in Android?",
+    "options": [
+      "To communicate between threads",
+      "To store data",
+      "To handle user input",
+      "To display notifications"
+    ],
+    "answer": "To communicate between threads"
+  },
+  {
+    "question": "Which permission is required to access the device's location in Android?",
+    "options": [
+      "android.permission.ACCESS_FINE_LOCATION",
+      "android.permission.ACCESS_COARSE_LOCATION",
+      "android.permission.INTERNET",
+      "android.permission.READ_CONTACTS"
+    ],
+    "answer": "android.permission.ACCESS_FINE_LOCATION"
+  },
+  {
+    "question": "What is the purpose of the Android Debug Bridge (ADB)?",
+    "options": [
+      "To communicate with a device over USB",
+      "To design the user interface",
+      "To debug the application",
+      "To test the application"
+    ],
+    "answer": "To communicate with a device over USB"
+  },
+  {
+    "question": "Which layout is used to stack views on top of each other?",
+    "options": [
+      "FrameLayout",
+      "LinearLayout",
+      "RelativeLayout",
+      "ConstraintLayout"
+    ],
+    "answer": "FrameLayout"
+  },
+  {
+    "question": "What is the lifecycle method called when an Activity is being destroyed?",
+    "options": [
+      "onDestroy()",
+      "onPause()",
+      "onStop()",
+      "onRestart()"
+    ],
+    "answer": "onDestroy()"
+  },
+  {
+    "question": "Which class is used to display images in Android?",
+    "options": [
+      "ImageView",
+      "TextView",
+      "Button",
+      "EditText"
+    ],
+    "answer": "ImageView"
+  },
+  {
+    "question": "What is the purpose of a Service in Android?",
+    "options": [
+      "To perform long-running operations in the background",
+      "To store data",
+      "To handle user input",
+      "To display notifications"
+    ],
+    "answer": "To perform long-running operations in the background"
+  },
+  {
+    "question": "Which storage option is used to store structured data?",
+    "options": [
+      "SQLite Database",
+      "Shared Preferences",
+      "Internal Storage",
+      "External Storage"
+    ],
+    "answer": "SQLite Database"
+  },
+  {
+    "question": "What is the purpose of an Intent Filter in Android?",
+    "options": [
+      "To specify the types of Intents an Activity or Service can handle",
+      "To display notifications",
+      "To handle user interactions",
+      "To execute background tasks"
+    ],
+    "answer": "To specify the types of Intents an Activity or Service can handle"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "question": "What is the primary programming language for iOS development?",
+    "options": ["Swift", "Objective-C", "Java", "Python"],
+    "answer": "Swift"
+  },
+  {
+    "question": "Which framework is used for building user interfaces in iOS?",
+    "options": ["UIKit", "SwiftUI", "Foundation", "Core Data"],
+    "answer": "SwiftUI"
+  },
+  {
+    "question": "What is the purpose of the AppDelegate in an iOS app?",
+    "options": ["To handle app lifecycle events", "To manage data persistence", "To create user interfaces", "To handle network requests"],
+    "answer": "To handle app lifecycle events"
+  },
+  {
+    "question": "Which design pattern is commonly used in iOS development?",
+    "options": ["MVC", "MVVM", "MVP", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the purpose of Auto Layout in iOS?",
+    "options": ["To create responsive and adaptive user interfaces", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To create responsive and adaptive user interfaces"
+  },
+  {
+    "question": "Which class is used to display a list of items in iOS?",
+    "options": ["UITableView", "UICollectionView", "UIPickerView", "UIScrollView"],
+    "answer": "UITableView"
+  },
+  {
+    "question": "What is the purpose of a Storyboard in iOS development?",
+    "options": ["To visually design user interfaces", "To handle app lifecycle events", "To manage data persistence", "To handle network requests"],
+    "answer": "To visually design user interfaces"
+  },
+  {
+    "question": "Which framework is used for data persistence in iOS?",
+    "options": ["Core Data", "Realm", "SQLite", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the purpose of Grand Central Dispatch (GCD) in iOS?",
+    "options": ["To manage concurrent operations", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To manage concurrent operations"
+  },
+  {
+    "question": "Which class is used to display a collection of items in a grid layout in iOS?",
+    "options": ["UICollectionView", "UITableView", "UIPickerView", "UIScrollView"],
+    "answer": "UICollectionView"
+  },
+  {
+    "question": "What is the purpose of a ViewController in an iOS app?",
+    "options": ["To manage a specific view and its interactions", "To handle app lifecycle events", "To manage data persistence", "To handle network requests"],
+    "answer": "To manage a specific view and its interactions"
+  },
+  {
+    "question": "Which framework is used for networking in iOS?",
+    "options": ["URLSession", "Alamofire", "AFNetworking", "All of the above"],
+    "answer": "URLSession"
+  },
+  {
+    "question": "What is the purpose of a Protocol in Swift?",
+    "options": ["To define a blueprint for methods and properties", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To define a blueprint for methods and properties"
+  },
+  {
+    "question": "Which keyword is used to declare a constant in Swift?",
+    "options": ["let", "var", "const", "final"],
+    "answer": "let"
+  },
+  {
+    "question": "What is the purpose of an Extension in Swift?",
+    "options": ["To add functionality to existing types", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To add functionality to existing types"
+  },
+  {
+    "question": "Which class is used to display a scrollable view in iOS?",
+    "options": ["UIScrollView", "UITableView", "UICollectionView", "UIPickerView"],
+    "answer": "UIScrollView"
+  },
+  {
+    "question": "What is the purpose of a Closure in Swift?",
+    "options": ["To define a self-contained block of code", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To define a self-contained block of code"
+  },
+  {
+    "question": "Which framework is used for handling user notifications in iOS?",
+    "options": ["UserNotifications", "CloudKit", "PushKit", "All of the above"],
+    "answer": "UserNotifications"
+  },
+  {
+    "question": "What is the purpose of a Delegate in iOS development?",
+    "options": ["To allow one object to communicate with another", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To allow one object to communicate with another"
+  },
+  {
+    "question": "Which class is used to display a picker view in iOS?",
+    "options": ["UIPickerView", "UITableView", "UICollectionView", "UIScrollView"],
+    "answer": "UIPickerView"
+  },
+  {
+    "question": "What is the purpose of a NotificationCenter in iOS?",
+    "options": ["To broadcast information to multiple objects", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To broadcast information to multiple objects"
+  },
+  {
+    "question": "Which framework is used for working with Core Location in iOS?",
+    "options": ["CoreLocation", "MapKit", "CoreMotion", "All of the above"],
+    "answer": "CoreLocation"
+  },
+  {
+    "question": "What is the purpose of a Segue in iOS development?",
+    "options": ["To transition between view controllers", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To transition between view controllers"
+  },
+  {
+    "question": "Which keyword is used to declare a variable in Swift?",
+    "options": ["var", "let", "const", "final"],
+    "answer": "var"
+  },
+  {
+    "question": "What is the purpose of an Optional in Swift?",
+    "options": ["To represent a value that may or may not be present", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To represent a value that may or may not be present"
+  },
+  {
+    "question": "Which class is used to display a web view in iOS?",
+    "options": ["WKWebView", "UIWebView", "SFSafariViewController", "All of the above"],
+    "answer": "WKWebView"
+  },
+  {
+    "question": "What is the purpose of a GCD Queue in iOS?",
+    "options": ["To manage the execution of tasks", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To manage the execution of tasks"
+  },
+  {
+    "question": "Which framework is used for working with Core Graphics in iOS?",
+    "options": ["CoreGraphics", "QuartzCore", "UIKit", "All of the above"],
+    "answer": "CoreGraphics"
+  },
+  {
+    "question": "What is the purpose of a Target-Action pattern in iOS development?",
+    "options": ["To connect user interface elements to code", "To handle user interactions", "To manage data persistence", "To handle network requests"],
+    "answer": "To connect user interface elements to code"
+  }
+]
