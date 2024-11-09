@@ -28,8 +28,6 @@ Here are some screenshots of the application:
   <img src="screenshots/score_screen.png" alt="Score Screen" width="30%">
 </p>
 
-> **Note**: Ensure screenshots are saved in the `screenshots` folder within your project directory, and update the file paths if necessary.
-
 ## Motivation
 
 This app was created to explore Flutter's capabilities in building cross-platform applications.
