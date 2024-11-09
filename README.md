@@ -23,16 +23,13 @@ A Flutter project built as a learning exercise for cross-platform development.
 Here are some screenshots of the application:
 
 - **Welcome Screen**
-  ![Welcome Screen](![image](https://github.com/user-attachments/assets/d4424f88-cefd-4034-b799-efadaa00eae8)
-)
+  ![Welcome Screen](screenshots/welcome_screen.png)
 
 - **Quiz Screen**
-  ![Quiz Screen](![image](https://github.com/user-attachments/assets/7d669b33-65a6-484e-86d1-d72a895502c2)
-)
+  ![Quiz Screen](screenshots/quiz_screen.png)
 
 - **Score Screen**
-  ![Score Screen](![image](https://github.com/user-attachments/assets/0507e08e-cd94-4599-a102-63e387d62657)
-)
+  ![Score Screen](screenshots/score_screen.png)
 
 > **Note**: Ensure screenshots are saved in the `screenshots` folder within your project directory, and update the file paths if necessary.
 
