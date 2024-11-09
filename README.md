@@ -22,14 +22,11 @@ A Flutter project built as a learning exercise for cross-platform development.
 
 Here are some screenshots of the application:
 
-- **Welcome Screen**
-  ![Welcome Screen](screenshots/welcome_screen.png)
-
-- **Quiz Screen**
-  ![Quiz Screen](screenshots/quiz_screen.png)
-
-- **Score Screen**
-  ![Score Screen](screenshots/score_screen.png)
+<p align="center">
+  <img src="screenshots/welcome_screen.png" alt="Welcome Screen" width="30%">
+  <img src="screenshots/quiz_screen.png" alt="Quiz Screen" width="30%">
+  <img src="screenshots/score_screen.png" alt="Score Screen" width="30%">
+</p>
 
 > **Note**: Ensure screenshots are saved in the `screenshots` folder within your project directory, and update the file paths if necessary.
 
